@@ -114,7 +114,7 @@ header {
 .education {
     background-image: url(../images/joanna-kosinska-unsplash.jpg);
     background-size: cover;
-    background-position: bottom left;
+    background-position: top right;
     padding: 100px;
 }
 
@@ -179,5 +179,10 @@ footer {
     .contact-list a {
         padding: 5px;
     }
-}
+
+    .education {
+        background-position: bottom left;
+        padding: 10px;
+    }
+    
 }
