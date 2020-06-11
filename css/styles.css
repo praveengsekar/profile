@@ -179,4 +179,8 @@ footer {
     .contact-list a {
         padding: 5px;
     }
+    
+    .education p {
+    width: 80%;
+}
 }
