@@ -1,0 +1,78 @@
+/* GLobal styles
+-----------------------------------------------*/ 
+body {
+    color: #343434;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+img {
+    width: 600px;
+}
+a {
+    color: #FFE66D;
+}
+a:hover {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 100px;
+    line-height: 1;
+}
+
+h2 {
+    font-size: 45px;
+}
+
+h1, h2 {
+    margin: 0;
+    font-family: 'Caveat', cursive;
+    font-weight: 400;
+}
+
+.content-wrap {
+    width: 950px;
+    margin: 0 auto;
+    padding: 60px 0;
+} 
+
+/* Profile
+-----------------------------------------------*/ 
+header {
+    background: #2F3061;
+    color: #F7FFF7;
+}
+
+/* Projects
+-----------------------------------------------*/ 
+.projects {
+    background: #F7FFF7;
+}
+
+.projects a {
+    color: #F7FFF7;
+    background: #2F3061;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.projects a:hover {
+    background: rgba(47,47,97,80%);
+}
+
+/* Work Experience
+-----------------------------------------------*/ 
+.work-experience {
+    background: #A1C6D7;
+}
+
+/* Contact info
+-----------------------------------------------*/ 
+footer {
+    background: #343434;
+    color: #F7FFF7;
+}
